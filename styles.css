@@ -4,17 +4,16 @@ body {
     justify-content: center;
     align-items: center;
     font-family: Arial, sans-serif;
-    background-color: #a02323;
+    background-color: #1f1e1e;
     margin: 0;
     padding: 0;
 }
 
 .post-header {
     width: 400px;
-    background-color: #cec9c9;
+    background-color: aliceblue;
     color: #000000;
     padding: 10px;
-    margin-bottom: 10px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -53,5 +52,12 @@ body {
     align-items: center;
     width: 400px;
     padding: 10px;
-    background-color: #cec9c9;
+    background-color: aliceblue;
+}
+
+.Texto {
+    background-color: aliceblue;
+    width: 400px;
+    padding: 10px;
+    font-size: 13px;
 }
